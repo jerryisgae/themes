@@ -30,7 +30,7 @@ Registered: Black Box Theme
  --background-image: url(https://preview.redd.it/ss0vvyi2hfk61.png?width=1920&format=png&auto=webp&v=enabled&s=66dafb37835ff246a0c525d1994fdde4cea5e9c0); /* change background */
   --background-blur: 0px; /* Main Background Blur */
 --popup-background: url(https://preview.redd.it/ss0vvyi2hfk61.png?width=1920&format=png&auto=webp&v=enabled&s=66dafb37835ff246a0c525d1994fdde4cea5e9c0);  /* Background for popups and modals */
-  --background-darkness: 0.75; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
+  --background-darkness: 0; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
 }
 
 
